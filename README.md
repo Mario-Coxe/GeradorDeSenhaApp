@@ -16,3 +16,7 @@ https://www.geeksforgeeks.org/how-to-generate-random-password-in-react-native/
 ``
 https://www.youtube.com/@mariocoxe/videos
 ``
+
+# Imagem do projecto
+
+![NEWSLATTER Banner](https://github.com/Mario-Coxe/GeradorDeSenhaApp/blob/main/assets/image.png)
