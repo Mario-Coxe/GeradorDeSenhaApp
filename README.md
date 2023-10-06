@@ -2,7 +2,7 @@
 Gerador de senha feito com React Native, um tutorial para o meu canal do Youtube, siguimos os passos do seguinte tutorial que encontramos na NET do site:
 
 ``
-https://www.**freecodecamp.org/
+https://www.freecodecamp.org/
 ``
 
 ## O link do tutorial é este:
